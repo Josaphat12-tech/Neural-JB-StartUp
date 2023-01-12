@@ -35,35 +35,7 @@ Before running the programs, kindly install the requirements as given in Require
 * Use [deploy.py](deploy.py) script to access the classifier as an interactive web interface.
   * `python deploy.py`
 
-## Screenshots (Results & Web Interface)
 
-### Web Interface
-
-#### Home Page
-
-![index](results/web1.png)
-
-#### Classification Results via Web Interface
-
-![class 1](results/web2.png)
-
-![class 2](results/web3.png)
-
-![class 3](results/web4.png)
-
-### Classifier Evaluation
-
-#### Loss Graph
-
-![Loss Metrics](results/loss_metrics.png)
-
-#### Accuracy Graph
-
-![Accuracy Metrics](results/accuracy_metrics.png)
-
-#### Confusion Matrix on Test set
-
-![Confusion Matrix](results/cm.png)
 
 ## Requirements
 
@@ -73,7 +45,7 @@ Python 3 is required.
 
 Project done using Google Colab with follwing specifications:
 
-* Ubuntu 18.04 64-bit OS
+* Windows 10 Proffessional
 * 12 GB DDR4 RAM
 * 16 GB NVidia Tesla P100 GPU
 * 40 GB of Non-Persistent Storage
@@ -155,3 +127,6 @@ limitations under the License.
 * Brain Tumor segmentation using GANs.
 * Brain Tumor detection using Object Detection for localization of tumor in a given MRI image of the brain.
 * Improve existing classification model and web interface
+
+
+# Bitingo Josaphat JB
